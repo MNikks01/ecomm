@@ -69,17 +69,14 @@ The app will be available at http://localhost:3000.
 
 ## Project Structure
 
-ecommerce-app/
-├── config/ # Database and other configurations
-├── controllers/ # Request handlers for routes
-├── models/ # Mongoose schemas
-├── public/ # Static files (CSS, JS, images)
-├── routes/ # Express route definitions
-├── views/ # EJS templates (or React components)
-├── middleware/ # Custom middleware (e.g., auth)
-├── .env # Environment variables
-├── package.json # Project dependencies and scripts
-└── server.js # Entry point
+```html
+ecommerce-app/ ├── config/ # Database and other configurations ├── controllers/
+# Request handlers for routes ├── models/ # Mongoose schemas ├── public/ #
+Static files (CSS, JS, images) ├── routes/ # Express route definitions ├──
+views/ # EJS templates (or React components) ├── middleware/ # Custom middleware
+(e.g., auth) ├── .env # Environment variables ├── package.json # Project
+dependencies and scripts └── server.js # Entry point
+```
 
 ## Usage
 
